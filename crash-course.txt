@@ -1,5 +1,5 @@
 Name: Tristan Gabriel N. Espiritu
-Section: BSCS-1A
+Section: BSCS-1BB
 Program: Computer Science
 Address: Tiaong, Quezon
 
